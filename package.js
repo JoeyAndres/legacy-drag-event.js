@@ -1,6 +1,6 @@
 Package.describe({
     name: "jandres:legacy-drag",
-    summary: "Attaches a 'legacy-drag:start', 'legacy-drag:dragging', 'legacy-drag:end' event on element when being dragged.",
+    summary: "Attaches a 'legacy-drag:dragging' and more event on element when being dragged.",
     version: "0.1.0",
     git: "https://github.com/JoeyAndres/legacy-drag.js.git"
 });
